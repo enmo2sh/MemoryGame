@@ -1,0 +1,17 @@
+body{
+	background-image:url(back.jpg) ;
+	background-size:cover;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+h1{
+    color: #A52A2A;
+    font-size: 70px;
+    text-align: center;
+}
+
+.c{
+    font-size: 30px;
+}
